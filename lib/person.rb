@@ -1,3 +1,3 @@
 class Person
-bob_attributes = 
+bob_attributes = {name: "Bob", hair_color: "Brown"
 end
